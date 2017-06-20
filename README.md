@@ -1,1 +1,1 @@
-# hdm
+Hub für HDM-Projekte
